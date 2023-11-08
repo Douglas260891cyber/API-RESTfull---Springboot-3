@@ -31,7 +31,5 @@ Explicação breve da estrutura do projeto e como os diferentes componentes est�
 
 Instruções passo a passo sobre como configurar e rodar a aplicação localmente para desenvolvimento ou teste.
 
-## Licença
 
-Este projeto é licenciado sob a [Sua Licença]. Consulte o arquivo LICENSE.md para obter mais detalhes.
 
