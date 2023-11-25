@@ -22,14 +22,3 @@ Se você estiver interessado em contribuir para este projeto, por favor, siga es
 3. Faça commit das suas mudanças (`git commit -am 'Adiciona SuaFeature'`)
 4. Faça push para a branch (`git push origin feature/SuaFeature`)
 5. Abra um pull request
-
-## Estrutura do Projeto
-
-Explicação breve da estrutura do projeto e como os diferentes componentes estão organizados.
-
-## Como Rodar Localmente
-
-Instruções passo a passo sobre como configurar e rodar a aplicação localmente para desenvolvimento ou teste.
-
-
-
